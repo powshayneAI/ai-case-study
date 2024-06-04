@@ -12,3 +12,9 @@ When developed, the goal for Apple was to change the way people viewed computers
 ## Present Day
 
 In the present day, Apple is behind in the utilization of Generative AI, whilst other companies have already began implementing it. However, Apple still utilizes AI in a variety of ways, and has ever since the development of iOS 15.
+
+Some of the current utilization of AI in Apple products are:
+- Live Text
+- Predictive Text
+- Portrait Mode
+- Personal Voice
