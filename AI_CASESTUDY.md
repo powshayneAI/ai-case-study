@@ -1,4 +1,4 @@
-# AI Case Study: **Apple**
+# AI Case Study: Apple
 
 ###### Shayne Powell
 
