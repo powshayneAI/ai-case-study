@@ -18,3 +18,11 @@ Some of the current utilization of AI in Apple products are:
 - Predictive Text
 - Portrait Mode
 - Personal Voice
+
+### Live Text
+
+### Predictive Text
+
+### Portrait Mode
+
+### Personal Voice
