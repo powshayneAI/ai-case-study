@@ -3,50 +3,83 @@
 ## Overview and Origin
 
 * Name of company
-- Apple
+- Character AI/character.AI
 
 * When was the company incorporated?
-- April 1st, 1976 (1977?)
+- Created September of 2022
+- First Introduced December 5th, 2022 on their personal Blog
 
 * Who are the founders of the company?
-- Steve Wozniak and steve Jobs
+- Founder and CEO: Noam Shazeer
+-- Built: "Did you Mean?" (Google's Spellchecker) and the first targeting system for Adsense.
+- Co-Founder: Daniel de Freitas
+-- Led the development of Meena and LaMDA
 
 * How did the idea for the company (or project) come about?
-- A vision of changing the way people viewed computers. Wanted to make computers small enough for people to have them in their homes or offices.
+- Noam and Daniel were both engineers at Google until they left when the company was slow to release AI chat innovations. They also both wanted to see if LLMs could engage in open-ended conversations.
 * How is the company funded? How much funding have they received?
-- The company recieves most of its funding through the sales of iPhones and its servicing divisions
+
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
-- As of now, Apple is seen as lacking in the generative AI/AI department, It is rumored that Apple will be overhauling Siri to make her a more personalized AI experience.
+- character.ai seeks to build the next generation of dialog agents with a long-tail list of applications spanning from Entertainment to Education.
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
-- The company's intended consumers/customers are anyone who need smart devices, be them phones, tablets, or even computers.
+- The intended customer/consumer for character.ai is physically anyone. Be them someone in search for a jogging of imagination, seeking an adventure, or even to potentially learn a new language.
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
+- The solution offered is a 'hallucinating supercomputer' that focuses on interacting with the user as the center of everything.
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
+- Generative Artificial intelligence
+-- used to generate dialog between the user and selected character
+- Web Browser and Mobile applications
+-- Web browser for access on PC-like devices
+-- Mobile app for whenever they're on the Go
+-Recently implemented Character voices
+-- Allows the users to choose from a set of pre-made voices to creator-made voices for different created characters.
+-- Users can also create their own voices through audio samples or recording their own voices.
 ## Landscape
 
 * What field is the company in?
-
+- character.ai is  in the chatbot technologies field. Focused on generative artificial intelligence.
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+- Character.AI was created in 2022 and has only been around for a little over 3 years, nearing it's fourth year in September of 2024.
+- They were in Beta up until April 8th, 2024
+-- released a new website
+--a comprehensive upgrade of the user experience crafted from user feedback
+--speed and reliability improvements
+-Released Voices for Characters on March 19th of 2024
+-- mainly for one-on-one chats between users and characters
+-Created group-chat functionality
+-- for mobile only
+-- can be with both actual people and random characters
 
 * What are the other major companies in this field?
+- Janitor AI
+- ChatGPT?
+- whatplugin.ai
+- And many more.
+
+-- it seems like most of the other chatbot AIs similar to Character.AI were founded after Character.AI was made (potentially inspired)
 
 ## Results
 
 * What has been the business impact of this company so far?
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
+- A core metric used in the field to measure success is how many minutes per visit it has.
+-- In February of 2023, the average time spent on Character.AI was 25.4 minutes whilst ChatGPT measured in at 8.5 minutes per visit.
 * How is your company performing relative to competitors in the same field?
-
+-In reference to the metric used to measure success, in February of 2023 Character.AI was doing better than some competitors in the field. And they also seem to be pulling ahead in advancements as well.
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
+- Any reccomendation that I could make has already been touched upon by the company.
+- Group Chats on the web browser
+-- having it limited to mobile can be annoying for those who don't have smart mobile devices
+- Character Voices in Group Chats
+-- Voices in the chatbots were an amazing addition, and it would be cool to implement it into group chat scenarios instead of 1:1 interactions.
+- Allow for users to interact with their own voices
 * Why do you think that offering this product or service would benefit the company?
 
 * What technologies would this additional product or service utilize?
-
+- Utilization of the user's voice would likely have to implement verbal analyzing technologies for the AIs so they can understand what is being said. (This could be done via speech-to-text technologies)
 * Why are these technologies appropriate for your solution?
