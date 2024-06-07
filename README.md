@@ -60,5 +60,11 @@ What's amazing about Character is that users aren't just limited to interacting 
         Average rendering improvements of over 3x
     - Exited beta phase
     - More stable and rapid development of new features
-    
+
 ([Timeline/Blog](https://blog.character.ai))
+
+### Competitor(s)
+
+From the experience of utilizing AI chatbots, I have discovered a few competitors of Character.AI. One such rival is Janitor AI. Janitor AI physically looks different from Character AI in terms of searching for characters to interact with. However, Janitor AI is still in it's beta phase-- due to this, it lacks many abilities that Character AI has at its disposal.
+
+Janitor AI does not have voices for characters or Group Chats. Nor does it have a mobile app for it to be used on the go, it only has a site that is accessible through browsers.
