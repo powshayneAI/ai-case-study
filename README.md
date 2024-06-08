@@ -69,14 +69,17 @@ What's amazing about Character is that users aren't just limited to interacting 
 
 From the experience of utilizing AI chatbots, I have discovered a few competitors of Character.AI. One such rival is Janitor AI. Janitor AI physically looks different from Character AI in terms of searching for characters to interact with. However, Janitor AI is still in it's beta phase-- due to this, it lacks many abilities that Character AI has at its disposal.
 
+##### Janitor AI
 Janitor AI does not have voices for characters or Group Chats. Nor does it have a mobile app for it to be used on the go, it only has a site that is accessible through browsers.
 
+##### ChatGPT
 Another competitor of character.ai that the internet world believes is similar is ChatGPT.
 
 ChatGPT is labeled as a chatbot, though through personal experience I can't determine why it could be a competitor with character. I've personally seen ChatGPT useed as a source of inspiration or assistance when it comes to getting writing prompts, or full essays written due to a user's laziness. From my occasional usage of ChatGPT, I've never had the experience of building a story with the AI like I have with character.AI.
 
 Yes, you could ask chatGPT to compose a short story, but you don't really get to build up the story with the AI.
 
+##### Chai: Chat AI Platform
 In terms of mobile competitors, there are so many mobile apps to choose from that are similar in build to Character.ai.
 
 One particular app that caught my eye was **Chai: Chat AI Platform**, an app that was developed by Chai Research Corporation. At point blank range, Chai and character.ai are very similar in that they allow the users to create their own characters and interact with a large library of other user-made characters.
