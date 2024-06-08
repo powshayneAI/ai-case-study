@@ -100,7 +100,7 @@ According to a Similarweb Blog written by David F. Carr, Character AI is conside
 
 > "We started the company because we want too get this technology in the hands of everybody on Earth, a billion peoople can invent a billion use cases," Noam Shazeer, CEO at Character.AI, told Reuters.
 
-In a list of provided statistics, there was a huge gap between time per visit for character.AI when coompared to other AI websites. In February of 2023, character.AI averaged 25.4 minutes per visit, compared to perplexity.ai's 6.6 minutes per visit.
+In a list of provided statistics, there was a huge gap between time per visit for character.AI when coompared to other AI websites. In February of 2023, character.AI averaged 25.4 minutes per visit, compared to ChatGPT's 8.4 minutes per visit.
 
 In fact, Character.ai has had a higher average number of minutes per visit than some of the top websites worldwide. holdiing a difference of 5.1 minutes per visit average when coompared to Youtube(20.3) in February of 2023.
 
