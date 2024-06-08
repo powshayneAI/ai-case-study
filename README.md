@@ -87,7 +87,16 @@ One main complaint regarding character.ai is how it has filtering that doesn't a
 
 However, Chai also has its problems where it can only allow the user to send a specific amount of messages in one timeframe before they have to wait three hours before they can interact with a character again. Though some users found their way around this issue through rolling the clocks on their devices three hours ahead.
 
-### Performance Reviews(?)
+### Performance Review(March 2023)
+
+According to a Similarweb Blog written by David F. Carr, Character AI is considered the secon most popular AI Chatbot that existed (in early 2023), though it was the champion whenn it camme to terms of user engagement metrics. With no revenue, Character.AI had raised $150 mln, and it was said that users spent an average of two hours per day on the site; this fact aligned with similarweb estimates of spending a range of 25.4-29.7 minutes of visits in recent months which easily adds up to two hours across a few visits.
+
+> "We started the company because we want too get this technology in the hands of everybody on Earth, a billion peoople can invent a billion use cases," Noam Shazeer, CEO at Character.AI, told Reuters.
+
+In a list of provided statistics, there was a huge gap between time per visit for character.AI when coompared to other AI websites. In February of 2023, character.AI averaged 25.4 minutes per visit, compared to perplexity.ai's 6.6 minutes per visit.
+
+In fact, Character.ai has had a higher average number of minutes per visit than some of the top websites worldwide. holdiing a difference of 5.1 minutes per visit average when coompared to Youtube(20.3) in February of 2023.
+
 ### Recommendations
 From the research deducted, I have to admit that it is difficult for me to pinpoint any categories that character.AI is lacking.
 
@@ -123,6 +132,7 @@ Through further research, and an update to a section of their blog including 'ex
 - https://blog.character.ai/new-feature-announcement-character-group-chat/
 - https://blog.character.ai/character-voice-for-everyone/
 - https://blog.character.ai/introducing-our-next-generation-web-platform/
+https://www.reddit.com/r/ChaiApp/comments/1amx1ng/why_is_chai_better_than_character_ai/
+- https://www.similarweb.com/amp/blog/insights/ai-news/character-ai-engagement/
 - https://www.quora.com/What-are-the-best-AI-chatbots-that-I-can-have-a-verbal-conversation-with-So-I-can-have-a-conversation-without-having-to-touch-my-phone
 - https://blog.character.ai/character-ai-experiments-and-new-features-faq/
-- https://www.reddit.com/r/ChaiApp/comments/1amx1ng/why_is_chai_better_than_character_ai/
