@@ -33,6 +33,8 @@ Character AI is based on neural language models and allows the users to collabor
 >- Text Adventure Game (Game Master)
 >- Super Mario 64 (Fictional)
 
+There is no specified target audience for Character.AI, though it had been found that the a majority of Character users is in the age range of 18-24(56.49%), the close second age range is 25-34 years of age(22.42%). According to the same set of statistics, there is a close balance between gender of the users, males being a majority by .67%; Males make up 50.67% of Character users, whilst females make up the other 49.33%.
+
 What's amazing about Character is that users aren't just limited to interacting with pre-existing characters. In fact, the user base is encouraged to create and add their own characters to the constantly growing pool of AIs you can interact with.
 
 ### Business Activities/Timeline of Updates
@@ -129,6 +131,7 @@ Through further research, and an update to a section of their blog including 'ex
 
 ### Resources
 - https://beta.character.ai/help
+- https://whatsthebigdata.com/character-ai-statistics/#
 - https://blog.character.ai
 - https://blog.character.ai/introducing-character/
 - https://blog.character.ai/character-ai-launches-mobile-app-for-ios-and-android/
