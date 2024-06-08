@@ -35,6 +35,8 @@ Character AI is based on neural language models and allows the users to collabor
 
 There is no specified target audience for Character.AI, though it had been found that the a majority of Character users is in the age range of 18-24(56.49%), the close second age range is 25-34 years of age(22.42%). According to the same set of statistics, there is a close balance between gender of the users, males being a majority by .67%; Males make up 50.67% of Character users, whilst females make up the other 49.33%.
 
+If one had to determine the target audience based on this data, they would likely assume that the target audience are people within the age range of 18-34 that are looking for conversation with charracters too help expand the imagination, information, or an escape from stressors of life.
+
 What's amazing about Character is that users aren't just limited to interacting with pre-existing characters. In fact, the user base is encouraged to create and add their own characters to the constantly growing pool of AIs you can interact with.
 
 ### Business Activities/Timeline of Updates
