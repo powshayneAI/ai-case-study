@@ -77,7 +77,15 @@ ChatGPT is labeled as a chatbot, though through personal experience I can't dete
 
 Yes, you could ask chatGPT to compose a short story, but you don't really get to build up the story with the AI.
 
-***ENTER MORE CONTENT HERE***
+In terms of mobile competitors, there are so many mobile apps to choose from that are similar in build to Character.ai.
+
+One particular app that caught my eye was **Chai: Chat AI Platform**, an app that was developed by Chai Research Corporation. At point blank range, Chai and character.ai are very similar in that they allow the users to create their own characters and interact with a large library of other user-made characters.
+
+At first glance one might see that the two are equal in standings, yet, many reviews beg to differ. For example, somme redditors proclaimed that Chai keeps their userbase in mind for their AI, seeing as it is created and intended for users that are 17 years of age and above. On the other hand, [redditors](https://www.reddit.com/r/ChaiApp/comments/1amx1ng/why_is_chai_better_than_character_ai/) also claimed the character.ai only has the aim of pleasing their investors (and it's intended for users that are 12 years of age and above).
+
+One main complaint regarding character.ai is how it has filtering that doesn't allow any 'risque' content to occur between the user and the chatbot. This makes sense since character.ai, like previously stated, is intennded for users of age 12 and above. It's extremely likely that an app intended for tweens and early teens would have this type of filtering with no way of switching it on and off.
+
+However, Chai also has its problems where it can only allow the user to send a specific amount of messages in one timeframe before they have to wait three hours before they can interact with a character again. Though some users found their way around this issue through rolling the clocks on their devices three hours ahead.
 
 ### Performance Reviews(?)
 ### Recommendations
@@ -116,4 +124,5 @@ Through further research, and an update to a section of their blog including 'ex
 - https://blog.character.ai/character-voice-for-everyone/
 - https://blog.character.ai/introducing-our-next-generation-web-platform/
 - https://www.quora.com/What-are-the-best-AI-chatbots-that-I-can-have-a-verbal-conversation-with-So-I-can-have-a-conversation-without-having-to-touch-my-phone
-- 
+- https://blog.character.ai/character-ai-experiments-and-new-features-faq/
+- https://www.reddit.com/r/ChaiApp/comments/1amx1ng/why_is_chai_better_than_character_ai/
