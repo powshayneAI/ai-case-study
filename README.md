@@ -83,14 +83,13 @@ The same user also notes that the build-up in Janitor can be slow, but by respec
 ##### ChatGPT
 Another competitor of Character.AI that the internet world believes is similar is ChatGPT.
 
-ChatGPT is labeled as a chatbot, though through personal experience I can't determine why it could be a competitor with character. I've personally seen ChatGPT useed as a source of inspiration or assistance when it comes to getting writing prompts, or full essays written due to a user's laziness. From my occasional usage of ChatGPT, I've never had the experience of building a story with the AI like I have with Character.AI.
-
-Yes, you could ask chatGPT to compose a short story, but you don't really get to build up the story with the AI.
+ChatGPT is labeled as a chatbot, though through personal experience I can't determine why it could be a competitor with character. Character has a library full of different chatbots, each one programmed with their own personality, whilst ChatGPT is just one singular interactive bot.
+Personally, I've seen ChatGPT be used as a  source of inspiration or assistance when it comes to getting writing prompts, or full essays written fixed with external resources, internal citations, and even a works cited page. From the few interactions I've held with ChatGPT, I never found myself having an in-depth or in-character interaction with the AI like I have with Character. Instead, I've only ever seen ChatGPT take charge in writing a story for itself when requested it do so.
 
 ##### Chai: Chat AI Platform
 In terms of mobile competitors, there are so many mobile apps to choose from that are similar in build to Character.AI.
 
-One particular app that caught my eye was **Chai: Chat AI Platform**, an app that was developed by Chai Research Corporation. At point blank range, Chai and Character.AI are very similar in that they allow the users to create their own characters and interact with a large library of other user-made characters.
+One particular app that caught my eye was Chai: Chat AI Platform, an app that was developed by Chai Research Corporation. At point blank range, Chai and Character.AI are very similar in that they allow the users to create their own characters and interact with a large library of other user-made characters.
 
 At first glance one might see that the two are equal in standings, yet, many reviews beg to differ. For example, somme redditors proclaimed that Chai keeps their userbase in mind for their AI, seeing as it is created and intended for users that are 17 years of age and above. On the other hand, [redditors](https://www.reddit.com/r/ChaiApp/comments/1amx1ng/why_is_chai_better_than_character_ai/) also claimed the Character.AI only has the aim of pleasing their investors (and it's intended for users that are 12 years of age and above).
 
