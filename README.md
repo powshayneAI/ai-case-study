@@ -84,7 +84,10 @@ The same user also notes that the build-up in Janitor can be slow, but by respec
 Another competitor of Character.AI that the internet world believes is similar is ChatGPT.
 
 ChatGPT is labeled as a chatbot, though through personal experience I can't determine why it could be a competitor with character. Character has a library full of different chatbots, each one programmed with their own personality, whilst ChatGPT is just one singular interactive bot.
+
 Personally, I've seen ChatGPT be used as a  source of inspiration or assistance when it comes to getting writing prompts, or full essays written fixed with external resources, internal citations, and even a works cited page. From the few interactions I've held with ChatGPT, I never found myself having an in-depth or in-character interaction with the AI like I have with Character. Instead, I've only ever seen ChatGPT take charge in writing a story for itself when requested it do so.
+
+Some users of ChatGPT have discovered that you are able to do one-on-one types of roleplaying with said chatbot, however, as previously stated, it can only play as one character. There's no groupchat feature, there's no character library or anything. However, in order to be able to 'roleplay' with ChatGPT, you have to ask it to do so, and 2/3 users said that asking had not worked; the key phrase in order to access roleplay with ChatGPT is ['Let's Roleplay.'](https://www.reddit.com/r/OpenAI/comments/zsuhzx/chatgpt_is_great_at_roleplaying/)
 
 ##### Chai: Chat AI Platform
 In terms of mobile competitors, there are so many mobile apps to choose from that are similar in build to Character.AI.
@@ -144,7 +147,8 @@ Through further research, and an update to a section of their blog including 'ex
 - https://blog.character.ai/character-voice-for-everyone/
 - https://blog.character.ai/introducing-our-next-generation-web-platform/
 - https://www.reddit.com/r/JanitorAI_Official/comments/14j4u7s/janitor_ai_vs_character_ai/
-https://www.reddit.com/r/ChaiApp/comments/1amx1ng/why_is_chai_better_than_character_ai/
+- https://www.reddit.com/r/OpenAI/comments/zsuhzx/chatgpt_is_great_at_roleplaying/
+- https://www.reddit.com/r/ChaiApp/comments/1amx1ng/why_is_chai_better_than_character_ai/
 - https://www.similarweb.com/amp/blog/insights/ai-news/character-ai-engagement/
 - https://www.quora.com/What-are-the-best-AI-chatbots-that-I-can-have-a-verbal-conversation-with-So-I-can-have-a-conversation-without-having-to-touch-my-phone
 - https://blog.character.ai/character-ai-experiments-and-new-features-faq/
