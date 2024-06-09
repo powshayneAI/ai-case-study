@@ -6,7 +6,7 @@ Founded by Noam Shazeer, who created Google's spell checker (Did you mean?), and
 
 >"We started Character to lead the AI revolution and to bring joy and value to billions of people each step along the way."
 
-Shazeer and Freitas weren't the only people creating the AI chatbot, in fact, they were joined by a founding team of AI leaders from **Google Brain** and **Meta AI**.
+Shazeer and Freitas weren't the only people creating the AI chatbot, in fact, they were joined by a founding team of AI leaders from Google Brain** and Meta AI.
 The platform of which was built for Character was built with the intent of evolving with the users
 
 >"We own the engineering stack end-to-end, from data, modeling and training, to serving, user interface and experience."
@@ -24,7 +24,7 @@ In the words of the creators, Character.AI is considered (by their own terminolo
 
 >"Needless to say, a hallucinating supercomputer is not a source of reliable information. Still, we hope that you find Character.AI a useful tool for immagination, brainstorming, language learning, and a host of other purposes we have ourselves not yet imagined."
 
-Character AI is based on neural language models and allows the users to collaborate with the computer to write a dialog where the user types a message and the computer writes one in return; thus giving the illusion of having a conversation with a **fictional** or **historical** character, some characters aren't even character's, instead they act as **game masters** in a roleplaying game scenario.
+Character AI is based on neural language models and allows the users to collaborate with the computer to write a dialog where the user types a message and the computer writes one in return; thus giving the illusion of having a conversation with a fictional or historical character, some characters aren't even character's, instead they act as game masters in a roleplaying game scenario.
 
 ([About Us](https://beta.character.ai/help))
 
