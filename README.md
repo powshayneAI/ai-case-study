@@ -1,7 +1,7 @@
-# character.AI: A Case Study
+# Character.AI: A Case Study
 
 ### Origin
-Character AI/[character.ai](https://character.ai) is a full stack AGI company that was created in September of 2022, however, it was first introduced on December 5th, 2022 on their personal [blog](https://blog.character.ai).
+Character AI/[Character.AI](https://character.ai) is a full stack AGI company that was created in September of 2022, however, it was first introduced on December 5th, 2022 on their personal [blog](https://blog.character.ai).
 Founded by Noam Shazeer, who created Google's spell checker (Did you mean?), and Daniel de Freitas, who had led development of Meenna and LaMDA. Both Shazeer and Freitas were engineers at Google; they left, however, because Google was slow to release AI Chat Innovations. It was also said that they both wanted to see if LLMs could engage in open-ended conversations.
 
 >"We started Character to lead the AI revolution and to bring joy and value to billions of people each step along the way."
@@ -71,26 +71,30 @@ What's amazing about Character is that users aren't just limited to interacting 
 
 ### Competitor(s)
 
-From the experience of utilizing AI chatbots, I have discovered a few competitors of Character.AI. One such rival is Janitor AI. Janitor AI physically looks different from Character AI in terms of searching for characters to interact with. However, Janitor AI is still in it's beta phase-- due to this, it lacks many abilities that Character AI has at its disposal.
+From the experience of utilizing AI chatbots, I have discovered a few competitors of Character.AI. 
 
 ##### Janitor AI
-Janitor AI does not have voices for characters or Group Chats. Nor does it have a mobile app for it to be used on the go, it only has a site that is accessible through browsers.
+One such rival is Janitor AI. Janitor AI physically looks different from Character AI in terms of searching for characters to interact with. However, Janitor AI is still in it's beta phase-- due to this, it lacks many abilities that Character AI has at its disposal. Janitor AI does not have voices for characters or Group Chats. Nor does it have a mobile app for it to be used on the go, it only has a site that is accessible through browsers. 
+
+Despite lacking these few utilities, many [users](https://www.reddit.com/r/JanitorAI_Official/comments/14j4u7s/janitor_ai_vs_character_ai/) have compared Janitor AI to Character.AI, and claim that Janitor is over-all better than Some users claim that C.AI is repetitive and has a poor memory, mentioning how it's filter is crippling. Whilst Janitor AI can 'read the room,' with it's lack of filter it is allwoed to scuot arouond for things like risque language or suggestive situations that may come froom the user; following the user's cues to their logical conclusions.
+
+The same user also notes that the build-up in Janitor can be slow, but by respecting the user's intelligence. Janitory is willing to acknowledge when you don't want to partake in certain situations by taking shifts in action/tone in stride. Having this utility provices a 'more organic flow' to interactions.
 
 ##### ChatGPT
-Another competitor of character.ai that the internet world believes is similar is ChatGPT.
+Another competitor of Character.AI that the internet world believes is similar is ChatGPT.
 
-ChatGPT is labeled as a chatbot, though through personal experience I can't determine why it could be a competitor with character. I've personally seen ChatGPT useed as a source of inspiration or assistance when it comes to getting writing prompts, or full essays written due to a user's laziness. From my occasional usage of ChatGPT, I've never had the experience of building a story with the AI like I have with character.AI.
+ChatGPT is labeled as a chatbot, though through personal experience I can't determine why it could be a competitor with character. I've personally seen ChatGPT useed as a source of inspiration or assistance when it comes to getting writing prompts, or full essays written due to a user's laziness. From my occasional usage of ChatGPT, I've never had the experience of building a story with the AI like I have with Character.AI.
 
 Yes, you could ask chatGPT to compose a short story, but you don't really get to build up the story with the AI.
 
 ##### Chai: Chat AI Platform
-In terms of mobile competitors, there are so many mobile apps to choose from that are similar in build to Character.ai.
+In terms of mobile competitors, there are so many mobile apps to choose from that are similar in build to Character.AI.
 
-One particular app that caught my eye was **Chai: Chat AI Platform**, an app that was developed by Chai Research Corporation. At point blank range, Chai and character.ai are very similar in that they allow the users to create their own characters and interact with a large library of other user-made characters.
+One particular app that caught my eye was **Chai: Chat AI Platform**, an app that was developed by Chai Research Corporation. At point blank range, Chai and Character.AI are very similar in that they allow the users to create their own characters and interact with a large library of other user-made characters.
 
-At first glance one might see that the two are equal in standings, yet, many reviews beg to differ. For example, somme redditors proclaimed that Chai keeps their userbase in mind for their AI, seeing as it is created and intended for users that are 17 years of age and above. On the other hand, [redditors](https://www.reddit.com/r/ChaiApp/comments/1amx1ng/why_is_chai_better_than_character_ai/) also claimed the character.ai only has the aim of pleasing their investors (and it's intended for users that are 12 years of age and above).
+At first glance one might see that the two are equal in standings, yet, many reviews beg to differ. For example, somme redditors proclaimed that Chai keeps their userbase in mind for their AI, seeing as it is created and intended for users that are 17 years of age and above. On the other hand, [redditors](https://www.reddit.com/r/ChaiApp/comments/1amx1ng/why_is_chai_better_than_character_ai/) also claimed the Character.AI only has the aim of pleasing their investors (and it's intended for users that are 12 years of age and above).
 
-One main complaint regarding character.ai is how it has filtering that doesn't allow any 'risque' content to occur between the user and the chatbot. This makes sense since character.ai, like previously stated, is intennded for users of age 12 and above. It's extremely likely that an app intended for tweens and early teens would have this type of filtering with no way of switching it on and off.
+One main complaint regarding Character.AI is how it has filtering that doesn't allow any 'risque' content to occur between the user and the chatbot. This makes sense since Character.AI, like previously stated, is intennded for users of age 12 and above. It's extremely likely that an app intended for tweens and early teens would have this type of filtering with no way of switching it on and off.
 
 However, Chai also has its problems where it can only allow the user to send a specific amount of messages in one timeframe before they have to wait three hours before they can interact with a character again. Though some users found their way around this issue through rolling the clocks on their devices three hours ahead.
 
@@ -100,16 +104,16 @@ According to a Similarweb Blog written by David F. Carr, Character AI is conside
 
 > "We started the company because we want too get this technology in the hands of everybody on Earth, a billion peoople can invent a billion use cases," Noam Shazeer, CEO at Character.AI, told Reuters.
 
-In a list of provided statistics, there was a huge gap between time per visit for character.AI when coompared to other AI websites. In February of 2023, character.AI averaged 25.4 minutes per visit, compared to ChatGPT's 8.4 minutes per visit.
+In a list of provided statistics, there was a huge gap between time per visit for Character.AI when coompared to other AI websites. In February of 2023, Character.AI averaged 25.4 minutes per visit, compared to ChatGPT's 8.4 minutes per visit.
 
-In fact, Character.ai has had a higher average number of minutes per visit than some of the top websites worldwide. holdiing a difference of 5.1 minutes per visit average when coompared to Youtube(20.3) in February of 2023.
+In fact, Character.AI has had a higher average number of minutes per visit than some of the top websites worldwide. holdiing a difference of 5.1 minutes per visit average when coompared to Youtube(20.3) in February of 2023.
 
 ### Recommendations
-From the research deducted, I have to admit that it is difficult for me to pinpoint any categories that character.AI is lacking.
+From the research deducted, I have to admit that it is difficult for me to pinpoint any categories that Character.AI is lacking.
 
 Of course, if some of the updates that had come out in the past 2 years hadn't come out, I would have reccomended adding some of those functionalities in the future.
 
-Instead, I have reccomendations for those different capabilities of character.AI.
+Instead, I have reccomendations for those different capabilities of Character.AI.
 
 ##### Groupchat
 The first reccomendation that I have for Character is to make it so you can utilize the group chat function on the web browser counterpart of Character. We already have the group chat mode on the app, so I don't know if it will be too difficult to do such a thing.
@@ -122,13 +126,13 @@ The one problem that I see with the groupchats is how you have to hit a button w
 
 With the inclusion of Character voices, Character.AI is one step closer to becoming a chatbot that enables vocal conversations between these generated character messages.
 
-Character voices allow the user to give the characters they interact with voices/the abilities to physically talk to the user outside of a text format. However, as of now, we are not able to talk back to the bots without using the text functionality of the app. I feel this could be fixed if they allow a speech-to-text function to character.ai to make it seem more like you're actually speaking to the bot. (Some mobile devices may seem like this is already a function).
+Character voices allow the user to give the characters they interact with voices/the abilities to physically talk to the user outside of a text format. However, as of now, we are not able to talk back to the bots without using the text functionality of the app. I feel this could be fixed if they allow a speech-to-text function to Character.AI to make it seem more like you're actually speaking to the bot. (Some mobile devices may seem like this is already a function).
 
-Perhaps character.ai can use a programming functionality to the likes of Apple's Siri and Amazon's Alexa so that the AI can understand what is being said to them-- and then piece together a proper response to what is being said. Like how you can ask Siri for the weather, and she will respond with a correct answer. 
+Perhaps Character.AI can use a programming functionality to the likes of Apple's Siri and Amazon's Alexa so that the AI can understand what is being said to them-- and then piece together a proper response to what is being said. Like how you can ask Siri for the weather, and she will respond with a correct answer. 
 
 ([Is there an AI that you can actually talk to?](https://www.quora.com/What-are-the-best-AI-chatbots-that-I-can-have-a-verbal-conversation-with-So-I-can-have-a-conversation-without-having-to-touch-my-phone))
 
-Through further research, and an update to a section of their blog including 'experimental phases', Character.ai is going to have a testing phase for 'Character Calling' which would allow users to have *seamless conversation* with characters of their choice.
+Through further research, and an update to a section of their blog including 'experimental phases', Character.AI is going to have a testing phase for 'Character Calling' which would allow users to have *seamless conversation* with characters of their choice.
 ([Experiments/New Features (Updated June 3rd, 2024)](https://blog.character.ai/character-ai-experiments-and-new-features-faq/))
 
 ### Resources
@@ -140,6 +144,7 @@ Through further research, and an update to a section of their blog including 'ex
 - https://blog.character.ai/new-feature-announcement-character-group-chat/
 - https://blog.character.ai/character-voice-for-everyone/
 - https://blog.character.ai/introducing-our-next-generation-web-platform/
+- https://www.reddit.com/r/JanitorAI_Official/comments/14j4u7s/janitor_ai_vs_character_ai/
 https://www.reddit.com/r/ChaiApp/comments/1amx1ng/why_is_chai_better_than_character_ai/
 - https://www.similarweb.com/amp/blog/insights/ai-news/character-ai-engagement/
 - https://www.quora.com/What-are-the-best-AI-chatbots-that-I-can-have-a-verbal-conversation-with-So-I-can-have-a-conversation-without-having-to-touch-my-phone
